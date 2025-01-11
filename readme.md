@@ -13,11 +13,3 @@
 - Project 9 - Blog Wesbite
 - Project 10 - Portfolio Website
 
-#### All Image Assets and Icons will Provided in Video Description
-
-You Can Support me - For Free , Just By Sending me Tip From Brave Browser. ( <b>BAT Coin </b>)
-
-[![image](https://raw.githubusercontent.com/anshuopinion/10-Practice-Project-Html-CSS/master/Readme%20File/howtosupport.png)](https://www.youtube.com/c/dosomecoding)
-
-Visit Channel - [Do some coding](https://www.youtube.com/c/dosomecoding)
-›
