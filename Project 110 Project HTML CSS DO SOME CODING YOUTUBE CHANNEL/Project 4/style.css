@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    line-height: 1.4;
+    font-weight: 300;
+}
+
+.hero_section{
+    background-image: url(images/developer.png);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover; 
+}
