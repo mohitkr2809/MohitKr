@@ -14,4 +14,18 @@ html, body{
     min-height: 100vh;
     background-position: center;
     background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.text_container{
+    color: white;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 64px;
+    padding-left: 16px;
+
+}
+
+.lg_text{
+    font-size: 72px;
 }
